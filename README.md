@@ -1,4 +1,12 @@
+![Python](https://img.shields.io/badge/Python-3.14-blue)
+
+![NLTK](https://img.shields.io/badge/NLTK-3.9.2-green)
+
+![License](https://img.shields.io/badge/License-Educational-lightgrey)
+
 # 📝 Python Text Summarizer
+
+> Extractive Text Summarization with Python & NLTK
 
 An educational Python project that implements **Extractive Text Summarization** using the **Natural Language Toolkit (NLTK)**.
 
